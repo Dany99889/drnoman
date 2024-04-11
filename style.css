@@ -1,0 +1,47 @@
+h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 2em;
+}
+figure{
+    background-color: white;
+    text-align: center;
+    padding-bottom: 1em;
+}
+body{
+    background-color: rgb(230, 230, 230)
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2{
+    text-align: center;
+    font-weight: normal;
+    font-size: 1em;
+}
+h3{
+    text-align: center;
+    font-weight: bold;
+    font-size: 1em;
+}
+.date{
+    font-weight: bold;
+}
+
+
+figcaption{
+    font-size: 0.9em;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+ul{
+    text-align: justify;
+    font-size: medium;
+    margin-left: 20em;
+    margin-right: 20em;
+}
+div{
+    text-align: center;
+}
